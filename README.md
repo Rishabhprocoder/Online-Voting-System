@@ -32,4 +32,5 @@ MySQL – Storing user credentials, votes, and election data.
 Prerequisites:
 
 -XAMPP Server (for running PHP and MySQL locally)
+
 -Web Browser (Chrome, Edge, etc.)
