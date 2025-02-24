@@ -1,6 +1,7 @@
 # Online-Voting-System
 
 📌 Project Overview
+
 "ONLINE VOTING SYSTEM" is an online voting mechanism where registered voters can cast his/her vote online without going to any physical polling station.This ensures that the voting process is transparent, accessible and easy for both voters and administrators.There is a database which is maintained in which all the names of voters with complete information is stored.
 
 🛠️ Technologies Used
