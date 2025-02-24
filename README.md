@@ -26,3 +26,10 @@ MySQL – Storing user credentials, votes, and election data.
 5. User-friendly Interface
 6. Mobile Responsive Design
 7. Secure Data Storage
+
+🚀 Installation Guide
+
+Prerequisites:
+
+-XAMPP Server (for running PHP and MySQL locally)
+-Web Browser (Chrome, Edge, etc.)
